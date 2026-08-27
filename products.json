@@ -1,0 +1,42 @@
+[
+    {
+        "product_id": 9,
+        "name": "jhg",
+        "category": "kjh",
+        "unit_price": 8.0,
+        "quantity": 7,
+        "supplier": "jkk"
+    },
+    {
+        "product_id": 9,
+        "name": "jhg",
+        "category": "kjh",
+        "unit_price": 8.0,
+        "quantity": 7,
+        "supplier": "jkk"
+    },
+    {
+        "product_id": 4,
+        "name": "hrnok",
+        "category": "hg",
+        "unit_price": 8.0,
+        "quantity": 6,
+        "supplier": "v"
+    },
+    {
+        "product_id": 7,
+        "name": "injera",
+        "category": "food",
+        "unit_price": 23.0,
+        "quantity": 4,
+        "supplier": ""
+    },
+    {
+        "product_id": 5,
+        "name": "rice",
+        "category": "food",
+        "unit_price": 43.0,
+        "quantity": 4,
+        "supplier": "tapu"
+    }
+]
